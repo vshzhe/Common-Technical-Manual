@@ -83,6 +83,9 @@ cd /etc/yum.repos.d/
 wget http://mirrors.163.com/.help/CentOS6-Base-163.repo
 ```
 
+![images/help01.png](images/help01.png)
+![images/help02.png](images/help02.png)
+
 > 将`CentOS6-Base-163.repo`中的`$releasever`换成当前有效版本号7.7.1908
 
 ![images/yum-version.png](images/yum-version.png)
