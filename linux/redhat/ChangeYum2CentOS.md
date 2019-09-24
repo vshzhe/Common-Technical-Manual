@@ -136,8 +136,7 @@ enabled=0
 gpgkey=http://mirrors.163.com/centos/RPM-GPG-KEY-CentOS-7
 ```
 
-
-## 设置生效
+## 运行以下命令生成缓存
 
 > `yum clean all` #清理yum缓存，使设置生效
 > 
