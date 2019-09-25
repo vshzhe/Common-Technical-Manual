@@ -38,7 +38,7 @@ PackageKit-yum-1.1.10-1.el7.centos.x86_64
 ```shell
 [root@localhost ~]# rpm -e yum-3.4.3-150.el7.centos.noarch --nodeps
 [root@localhost ~]# rpm -e yum-utils-1.1.31-24.el7.noarch --nodeps
-[root@localhost ~]# rpm -e yum-metadata-parser-1.1.4-10.el7.x86_64.rpm --nodeps
+[root@localhost ~]# rpm -e yum-metadata-parser-1.1.4-10.el7.x86_64 --nodeps
 [root@localhost ~]# rpm -e yum-rhn-plugin-2.0.1-10.el7.noarch --nodeps
 [root@localhost ~]# rpm -e PackageKit-yum-1.1.10-1.el7.centos.x86_64 --nodeps
 [root@localhost ~]# rpm -e yum-langpacks-0.4.2-7.el7.noarch --nodeps
